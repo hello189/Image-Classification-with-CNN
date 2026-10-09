@@ -1,0 +1,7 @@
+echo "# Image-Classification-with-CNN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hello189/Image-Classification-with-CNN.git
+git push -u origin main
